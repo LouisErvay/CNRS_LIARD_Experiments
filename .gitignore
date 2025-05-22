@@ -1,0 +1,8 @@
+/.idea
+/.venv
+/DOC_LIDAR.pdf
+/lidar_data
+/main.py~
+/toulouse_capitole.csv
+/toulouse_capitole.laz
+/__pycache__
